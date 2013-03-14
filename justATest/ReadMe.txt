@@ -1,0 +1,1 @@
+This was the first thing I did with Corona… I wanted to create some basic game logic like  a floor or a jumping thing. it was new; I did this around late 2010/early 2011. 
